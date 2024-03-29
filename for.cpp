@@ -11,5 +11,6 @@ for(i=1;i<=5;i++)
  {
    cout<<"\n"<<i+j;
  }
+ return 0;
 
 }
